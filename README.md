@@ -1,2 +1,3 @@
 # MyNewsLetter
-Sign up to my Newsletter @ https://athiratj-newsletter-signup.herokuapp.com/
+Newsletter Sign Up page was created as a part of backend development studies.
+Check it out @ https://athiratj-newsletter-signup.herokuapp.com/
